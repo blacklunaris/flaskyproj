@@ -1,0 +1,90 @@
+body{
+    background-color:skyblue;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+.container{
+    
+    border-radius: 5px;
+    background-color: white;
+    padding: 50px;
+
+    border: 1px solid #ccc;
+    border-top:5px solid blue;
+    
+    width: 600px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+    
+    
+    
+   
+
+
+}
+h1{
+text-align: center;
+}
+nav ul{
+  list-style: none;
+  padding: 3px;
+  
+  margin: 0 auto;
+ 
+}
+nav{
+
+  
+  background: blue;
+  margin: 0 -9999rem;
+  padding: 0.25rem 9999rem;
+  border: none;
+  
+}
+nav li{
+  display: inline;
+  color:white;
+  position:relative;
+ 
+
+}
+nav li a {
+  
+  padding: 0.25em 0.75em;
+  
+  text-decoration: none;
+  color:white;
+  margin-left: 20px;
+  
+  
+}
+
+
+label{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+#biography{
+    border-radius: 5px;
+    margin-bottom: 24px;
+    display: inline-block;
+    
+
+}
+
+textarea, input{
+   box-sizing: border-box; 
+   width: 50%;
+}
+
+
+
+ 
+
+ 
